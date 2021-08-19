@@ -50,7 +50,7 @@ donations :
 
 If you like this tool and it was useful for you, give us help and energy
 
-bitcoin cash (btc) = bc1q8xerzyqseamdzcpfhcn0qfarhnhadkc96zleqc
+bitcoin cash (btc) =
 
 thanks a lot :)
 
