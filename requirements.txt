@@ -1,0 +1,8 @@
+socks
+sockets
+urllib3
+git
+python
+python2
+requests
+threading
